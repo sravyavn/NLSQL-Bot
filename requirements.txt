@@ -5,4 +5,4 @@ sqlite3
 pandas
 
 
-#extensions installed are: python , Jupyter , sqlite by alex and sqlviewer (for DB), Rainbow CSV for csv files, 
+#extensions installed: python , Jupyter , sqlite by alex and sqlviewer (for DB), Rainbow CSV for csv files, 
